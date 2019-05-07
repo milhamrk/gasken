@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "859254514559",
+    "firebase_url": "https://gasken-8f7ce.firebaseio.com",
+    "project_id": "gasken-8f7ce",
+    "storage_bucket": "gasken-8f7ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:859254514559:android:0a441d21aef973b3",
+        "android_client_info": {
+          "package_name": "com.karyanto.passenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "859254514559-025emn7namiro8prkhionmda4e8nmq2m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.karyanto.passenger",
+            "certificate_hash": "73955c60446dce3f9339167f9300b15f309cf98a"
+          }
+        },
+        {
+          "client_id": "859254514559-5e0lpcnmepvshfec7u8vdd2bi6lkc9h6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.karyanto.passenger",
+            "certificate_hash": "93c9a884a5e74a29001ab7205706f135965dece6"
+          }
+        },
+        {
+          "client_id": "859254514559-eko52cv9ucrq41c85nsebaqd6r04jk16.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZj03umCT1Vxi_KBgpiK1xTaQabKoO92M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "859254514559-eko52cv9ucrq41c85nsebaqd6r04jk16.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
